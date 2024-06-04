@@ -1,5 +1,14 @@
 # Hey, I'm JDX50S 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoke-wolf&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=gruvbox))
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smoke-wolf\&repo=github-package-manager)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smoke-wolf\&repo=Pypipscan)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoke-wolf&size_weight=0.5&count_weight=0.5)
 ## About Me
 - 🌟 Developer Program Member
 - 🔭 Currently enhancing package management tools.
