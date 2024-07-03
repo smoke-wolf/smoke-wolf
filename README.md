@@ -8,7 +8,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smoke-wolf\&repo=Pypipscan)
 
 
-![Total Downloads *more @ the end*](https://shareps.000webhostapp.com/SP/MS/render.php?code=0000&text=Files%20Converted)
+![Total Downloads *more @ the end*](https://shareps.000webhostapp.com/SP/MS/render.php?code=SmokeWolfDownloads&text=Total%20Downloads)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoke-wolf&size_weight=0.5&count_weight=0.5)
 ## About Me
