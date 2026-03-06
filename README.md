@@ -9,7 +9,7 @@
 - 🌱 Passionate about Python, secure automation, self-hosted AI, and end-to-end encryption
 - 👯 Open to collaborations on full-stack, security, DevOps, or SaaS projects
 - 💬 Ask me about system architecture, secure hosting, private LLMs, or Python automation
-- 📫 Reach me at: **maliq.barnard@gmail.com**
+- 📫 Reach me at: **https://me.sharepanel.host**
 - 😄 Pronouns: He/Him
 
 ## Achievements
