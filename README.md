@@ -8,12 +8,7 @@
 - 🏗️ **System Architecture** - Designing secure SaaS platforms and high-availability infrastructure  
 - ⚡ **Automation & DevOps** - Python-heavy automation pipelines, SecOps, and CI/CD
 - 🧠 **AI & Privacy** - Self-hosted AI solutions and privacy-focused tooling
-- 🔍 **Current Focus** - Security research, Claude Code integrations, and secure hosting solutions
-
-## What I'm Working On
-- 🚀 **Urchin-Clau** - ClaudeCode localhost server for autonomous agent dispatching
-- 🔒 **Security Research** - Vulnerability discovery and defensive security tools
-- 🏠 **SharePanel Host** - Secure, developer-friendly cloud hosting platform ([sharepanel.host](https://sharepanel.host))
+- 🏠 **SharePanel Host** - Building secure, developer-friendly cloud hosting ([sharepanel.host](https://sharepanel.host))
 
 ## Technical Stack
 **Languages:** Python, JavaScript, PHP, Shell Scripting  
@@ -23,10 +18,11 @@
 ## Selected Projects
 - 📊 **PyPipScan** (7 stars) - Smart Python dependency scanner and requirements generator
 - 🛡️ **LinkShield** (5 stars) - URL protection and phishing detection tool  
-- 💬 **SMAX** (3 stars) - End-to-end encrypted messaging application
 - 📝 **TouchScript** (5 stars) - Lightweight scripting language for task automation
+- 💬 **SMAX** (3 stars) - End-to-end encrypted messaging application
+- 🔍 **BlackTip** (5 stars) - OSINT and social engineering toolkit
 
-*More experimental projects and tools in my repositories - primarily Python-focused with security and automation themes.*
+*More experimental projects and security tools in my repositories - primarily Python-focused.*
 
 ## Connect
 - 🌐 **Personal Site:** [me.sharepanel.host](https://me.sharepanel.host)
