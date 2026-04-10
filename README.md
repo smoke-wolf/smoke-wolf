@@ -1,48 +1,37 @@
-# Hey, I'm Maliq Barnard 👋  
-**System Architect | Secure SaaS & Automation Specialist**  
-*Designed in Canada*
+# Hey, I'm Maliq Barnard 👋
+
+**System Architect | Security Researcher | Automation Specialist**  
+*Building secure, scalable solutions*
 
 ## About Me
-- 🔐 Building reliable, secure digital infrastructure and high-availability systems
-- 🌐 Specializing in secure SaaS platforms, automation pipelines, SecOps & OSINT
-- 🔭 Currently architecting scalable cloud solutions and privacy-focused tools
-- 🌱 Passionate about Python, secure automation, self-hosted AI, and end-to-end encryption
-- 👯 Open to collaborations on full-stack, security, DevOps, or SaaS projects
-- 💬 Ask me about system architecture, secure hosting, private LLMs, or Python automation
-- 📫 Reach me at: **https://me.sharepanel.host**
-- 😄 Pronouns: He/Him
+- 🔐 **Security Research** - Focused on system security, vulnerability research, and defensive automation
+- 🏗️ **System Architecture** - Designing secure SaaS platforms and high-availability infrastructure  
+- ⚡ **Automation & DevOps** - Python-heavy automation pipelines, SecOps, and CI/CD
+- 🧠 **AI & Privacy** - Self-hosted AI solutions and privacy-focused tooling
+- 🔍 **Current Focus** - Security research, Claude Code integrations, and secure hosting solutions
 
-## Achievements
-- 🏆 Starstruck
-- 🎯 Quickdraw
-- 🌟 GitHub Developer Program Member
+## What I'm Working On
+- 🚀 **Urchin-Clau** - ClaudeCode localhost server for autonomous agent dispatching
+- 🔒 **Security Research** - Vulnerability discovery and defensive security tools
+- 🏠 **SharePanel Host** - Secure, developer-friendly cloud hosting platform ([sharepanel.host](https://sharepanel.host))
 
-## Featured Projects
-### [SharePanel Host](https://sharepanel.host) — Secure Cloud SaaS Platform  
-End-to-end architecture for fast, affordable, developer-friendly hosting.
+## Technical Stack
+**Languages:** Python, JavaScript, PHP, Shell Scripting  
+**Specialties:** Security Research, System Architecture, Automation, Self-hosted AI  
+**Infrastructure:** Docker, Cloud Platforms, Secure Hosting, DevOps Pipelines
 
-### [PrivateLLM](https://github.com/smoke-wolf/PrivateLLM)  
-Privacy-first, self-hosted web interface for Ollama – full data sovereignty.
+## Selected Projects
+- 📊 **PyPipScan** (7 stars) - Smart Python dependency scanner and requirements generator
+- 🛡️ **LinkShield** (5 stars) - URL protection and phishing detection tool  
+- 💬 **SMAX** (3 stars) - End-to-end encrypted messaging application
+- 📝 **TouchScript** (5 stars) - Lightweight scripting language for task automation
 
-### [GitHub-Package-Manager](https://github.com/smoke-wolf/GitHub-Package-Manager) (36+ stars)  
-Alternative to `git clone`: CLI + GUI + web hub for repo management & automation.
+*More experimental projects and tools in my repositories - primarily Python-focused with security and automation themes.*
 
-### [S-Messenger](https://github.com/smoke-wolf/SMAX)  
-End-to-end encrypted secure messaging application.
+## Connect
+- 🌐 **Personal Site:** [me.sharepanel.host](https://me.sharepanel.host)
+- 📧 **Email:** [maliq.barnard@gmail.com](mailto:maliq.barnard@gmail.com)
+- 📝 **Medium:** [@maliq.barnard](https://medium.com/@maliq.barnard)
 
-### [TouchScript](https://github.com/smoke-wolf/TouchScript)  
-Lightweight .touch scripting language for task automation.
-
-### [PyPipScan](https://github.com/smoke-wolf/PyPipScan) (7+ stars)  
-Smart dependency scanner that generates `requirements.txt` from code.
-
-More projects & experiments in my repositories (Python-heavy with some PHP/JS).
-
-## Get In Touch
-- GitHub: [smoke-wolf / JDX50S](https://github.com/smoke-wolf)
-- Personal Site: [me.sharepanel.host](https://me.sharepanel.host)
-- Email: [maliq.barnard@gmail.com](mailto:maliq.barnard@gmail.com)
-- Medium: [@maliq.barnard](https://medium.com/@maliq.barnard)
-
-Open for freelance architecture, security consultations, or interesting full-stack opportunities.  
-Let's build something secure and scalable! 🚀🔒
+Open for security consulting, system architecture projects, and interesting automation challenges.  
+Let's build something secure! 🔒
