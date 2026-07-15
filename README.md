@@ -25,7 +25,7 @@
 *More experimental projects and security tools in my repositories - primarily Python-focused.*
 
 ## Connect
-- 🌐 **Personal Site:** [me.sharepanel.host](https://me.sharepanel.host)
+- 🌐 **Personal Site:** [me.sharepanel.host](https://me.sharepanel.host) updated to [maliqbarnard.com](https://maliqbarnard.com)
 - 📧 **Email:** [maliq.barnard@gmail.com](mailto:maliq.barnard@gmail.com)
 - 📝 **Medium:** [@maliq.barnard](https://medium.com/@maliq.barnard)
 
