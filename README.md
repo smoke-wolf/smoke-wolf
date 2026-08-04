@@ -31,3 +31,6 @@
 
 Open for security consulting, system architecture projects, and interesting automation challenges.  
 Let's build something secure! 🔒
+
+
+bugrater-verify-e7f6873ced82ccf94c
